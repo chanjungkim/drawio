@@ -1,9 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T07:36:16.117Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.16" etag="EpjiofLM1Y1TIkU-a274" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T07:51:07.954Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="k33CdirfzRvXOf2R789l" version="22.1.16" type="github">
   <diagram name="페이지-1" id="UUpiQvW2JEfz8oSzpSP1">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OMwlYTmFhEy_R4DQjkUi-1" value="Welstory+ 앱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OMwlYTmFhEy_R4DQjkUi-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;orthogonalLoop=0;flowAnimation=1;" edge="1" parent="1" source="OMwlYTmFhEy_R4DQjkUi-1" target="OMwlYTmFhEy_R4DQjkUi-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="170" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMwlYTmFhEy_R4DQjkUi-10" value="well-story" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OMwlYTmFhEy_R4DQjkUi-2">
+          <mxGeometry x="-0.102" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMwlYTmFhEy_R4DQjkUi-7" value="iam-iam.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OMwlYTmFhEy_R4DQjkUi-8" value="갤러리아 홈페이지" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OMwlYTmFhEy_R4DQjkUi-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.083;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;orthogonalLoop=0;flowAnimation=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.5" y="99" as="sourcePoint" />
+            <mxPoint x="319.5" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMwlYTmFhEy_R4DQjkUi-11" value="galleria" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OMwlYTmFhEy_R4DQjkUi-13" value="x.iam-iam.com/?c=" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="330" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OMwlYTmFhEy_R4DQjkUi-14" value="화상상담 앱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="550" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OMwlYTmFhEy_R4DQjkUi-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.204;entryY=-0.07;entryDx=0;entryDy=0;entryPerimeter=0;orthogonalLoop=0;flowAnimation=1;" edge="1" parent="1" source="OMwlYTmFhEy_R4DQjkUi-7" target="OMwlYTmFhEy_R4DQjkUi-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="174.5" y="390" as="sourcePoint" />
+            <mxPoint x="174.5" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMwlYTmFhEy_R4DQjkUi-16" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OMwlYTmFhEy_R4DQjkUi-15">
+          <mxGeometry x="-0.102" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OMwlYTmFhEy_R4DQjkUi-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;orthogonalLoop=0;flowAnimation=1;" edge="1" parent="1" source="OMwlYTmFhEy_R4DQjkUi-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.5" y="380" as="sourcePoint" />
+            <mxPoint x="320" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
